@@ -23,7 +23,9 @@ I have some qualified certificate  [certificate from Dicoding and FreeCodeCamp](
 <div>
   <h3>Longest Streak</h3>
   <picture>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyra-Code79&theme=radical%22%20alt=%22GitHub%20Streak%22" />
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Kyra-Code79" alt="GitHub Streak" />
+    </a>
   </picture>
 </div>
 
