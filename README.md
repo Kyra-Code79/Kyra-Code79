@@ -39,4 +39,7 @@ I have some qualified certificate  [certificate from Dicoding and FreeCodeCamp]<
   <a href="https://github.com/Kyra-Code79">
     <img align="left" alt="Habibi Siregar Github" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/github.svg" />
   </a>
+  <a href="https://instagram.com/habibisiregar79?igshid=MzNlNGNkZWQ4Mg==">
+    <img align="left" alt="Habibi Siregar Github" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" />
+  </a>
 </div> 
