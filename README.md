@@ -11,7 +11,17 @@ I have some qualified certificate  [certificate from dicoding](<br>
 ).<br>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kyra-Code79&theme=nightowl&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Kyra-Code79&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Kyra-Code79&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kyra-Code79&show_icons=true" />
+</picture>
 </div>
 
 Check my profile for more, [Linkedin](https://www.linkedin.com/in/habibisiregar79/).
