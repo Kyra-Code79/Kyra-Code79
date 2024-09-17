@@ -20,11 +20,12 @@ I have some qualified certificate  [certificate from Dicoding and FreeCodeCamp](
 </picture>
 </div>
 
-Check my profile for more:<br>
 <div>
-  <h3>**1.LinkedIn:**</h3>
+  <h3>Check my profile for more:</h3>
   <a href="https://www.linkedin.com/in/habibisiregar79/">
-  <img align="left" alt="Habibi Siregar Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
-</a>
-
+    <img align="left" alt="Habibi Siregar Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+  </a>
+  <a href="https://github.com/Kyra-Code79">
+    <img align="left" alt="Habibi Siregar Github" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/github.svg" />
+  </a>
 </div> 
