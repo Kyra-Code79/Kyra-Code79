@@ -1,20 +1,18 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=70&pause=1000&width=500&height=100&lines=Hello+visitors!" alt="Typing SVG" /></a>  
 </div>
-My name is <b>M Habibi Siregar</b>.<br>
-
-I'm a Junior **FullStack Developer**.<br>
-
-I have some qualified certificate  [certificate from Dicoding and FreeCodeCamp]<br>
 <div>
-1. <a style="text-decoration: none;" href="https://www.dicoding.com/certificates/07Z60OMDJZQR">Dicoding Certificate</a><br>
-  <a href="https://example.com" style="text-decoration: none;">Example Link</a>
-
-**2. https://www.dicoding.com/certificates/4EXGQMG01ZRL**<br>
-**3. https://www.dicoding.com/certificates/98XWLDNV4ZM3**<br>
-**4. https://www.freecodecamp.org/certification/HabibiSiregar/responsive-web-design**
+<h1>My name is <b>M Habibi Siregar</b>.</h1><br>
+<h3>I'm a Junior <b>FullStack Developer</b>.</h3><br>
 </div>
-.<br>
+
+<div>
+I have some qualified certificate  [certificate from Dicoding and FreeCodeCamp]<br>
+1. <a href="https://www.dicoding.com/certificates/07Z60OMDJZQR">Memulai Dasar Pemrograman untuk Menjadi Pengembang Software</a><br>
+2. <a href="https://www.dicoding.com/certificates/4EXGQMG01ZRL">Pengenalan ke Logika Pemrograman (Programming Logic 101)</a><br>
+3. <a href="https://www.dicoding.com/certificates/98XWLDNV4ZM3">Belajar Dasar Git dengan GitHub</a><br>
+4. <a href="https://www.freecodecamp.org/certification/HabibiSiregar/responsive-web-design">Responsive web Design</a><br>
+</div>.<br>
 
 <div align="left">
   <picture>
