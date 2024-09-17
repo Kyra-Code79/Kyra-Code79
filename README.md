@@ -16,7 +16,8 @@ I have some qualified certificate  [certificate from Dicoding and FreeCodeCamp](
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyra-Code79&layout=pie&langs_count=8&theme=tokyonight"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyra-Code79&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kyra-Code79&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Kyra-Code79&show_icons=true" />
 </picture>
 </div>
 
