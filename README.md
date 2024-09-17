@@ -1,4 +1,4 @@
-# Hey, I'm here! 
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=1000&width=435&lines=Hello+visitors!" alt="Typing SVG" /></a> 
 
 My name is **M Habibi Siregar**.<br>
 
@@ -19,17 +19,6 @@ I have some qualified certificate  [certificate from Dicoding and FreeCodeCamp](
     <img src="https://github-readme-stats.vercel.app/api?username=Kyra-Code79&show_icons=true" />
 </picture>
 </div>
-
-<div>
-  <h3>Longest Streak</h3>
-  <picture>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kyra-Code79&theme=tokyonight)](https://git.io/streak-stats)
-  </picture>
-</div>
-
-<source srcset="https://github-readme-streak-stats.herokuapp.com?user=Kyra-Code79&theme=tokyonight" 
-media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
 
 <div>
   <h3>Visitors Count:</h3>
