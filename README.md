@@ -1,5 +1,5 @@
 <div align="center">
-** <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=60&pause=1000&width=500&height=100&lines=Hello+visitors!" alt="Typing SVG" /></a>**  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=70&pause=1000&width=500&height=100&lines=Hello+visitors!" alt="Typing SVG" /></a>  
 </div>
 My name is **M Habibi Siregar**.<br>
 
