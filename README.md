@@ -14,7 +14,7 @@ I have some qualified certificate  [certificate from dicoding](<br>
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Kyra-Code79&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: radical)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Kyra-Code79&show_icons=true"
