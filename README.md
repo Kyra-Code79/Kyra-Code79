@@ -12,10 +12,10 @@ I have some qualified certificate  [certificate from dicoding](<br>
 
 <div align="center">
   <picture>
-  <source
+<!--   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Kyra-Code79&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
-  />
+  /> -->
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyra-Code79&langs_count=8"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
