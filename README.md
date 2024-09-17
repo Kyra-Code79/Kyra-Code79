@@ -27,6 +27,13 @@ I have some qualified certificate  [certificate from Dicoding and FreeCodeCamp](
 </div>
 
 <div>
+  <h3>Welcome Repository Watchers:</h3>
+  <img src="https://img.shields.io/github/watchers/Kyra-Code79/Kyra-Code79" alt="Watchers" />
+</div>
+
+
+
+<div>
   <h3>Check my profile for more:</h3>
   <a href="https://www.linkedin.com/in/habibisiregar79/">
     <img align="left" alt="Habibi Siregar Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
