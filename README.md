@@ -6,8 +6,8 @@ My name is <b>M Habibi Siregar</b>.<br>
 I'm a Junior **FullStack Developer**.<br>
 
 I have some qualified certificate  [certificate from Dicoding and FreeCodeCamp]<br>
-<div style="text-decoration: none;">
-1. <a href="https://www.dicoding.com/certificates/07Z60OMDJZQR">Dicoding Certificate</a><br>
+<div>
+1. <a style="text-decoration: none;" href="https://www.dicoding.com/certificates/07Z60OMDJZQR">Dicoding Certificate</a><br>
 **2. https://www.dicoding.com/certificates/4EXGQMG01ZRL**<br>
 **3. https://www.dicoding.com/certificates/98XWLDNV4ZM3**<br>
 **4. https://www.freecodecamp.org/certification/HabibiSiregar/responsive-web-design**
