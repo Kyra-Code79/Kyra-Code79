@@ -22,16 +22,10 @@ I have some qualified certificate  [certificate from Dicoding and FreeCodeCamp](
 </div>
 
 <div>
-  <h3>Visitors Count:</h3>
+  <h3>Visitors and Watchers Count:</h3>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kyra-Code79" alt="Visitors" />
-</div>
-
-<div>
-  <h3>Welcome Repository Watchers:</h3>
   <img src="https://img.shields.io/github/watchers/Kyra-Code79/Kyra-Code79" alt="Watchers" />
 </div>
-
-
 
 <div>
   <h3>Check my profile for more:</h3>
