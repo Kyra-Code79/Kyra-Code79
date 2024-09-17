@@ -10,7 +10,7 @@ I have some qualified certificate  [certificate from dicoding](<br>
 **3. https://www.freecodecamp.org/certification/HabibiSiregar/responsive-web-design**
 ).<br>
 
-<div align="center">
+<div align="left">
   <picture>
 <!--   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Kyra-Code79&show_icons=true&theme=tokyonight"
