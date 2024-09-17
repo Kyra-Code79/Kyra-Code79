@@ -1,8 +1,9 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=70&pause=1000&width=500&height=100&lines=Hello+visitors!" alt="Typing SVG" /></a>  
-</div>
+</div></br>
+
 <div>
-<h1>My name is <b>M Habibi Siregar</b>.</h1><br>
+<h1>My name is <b>M Habibi Siregar</b>.</h1>
 <h3>I'm a Junior <b>FullStack Developer</b>.</h3><br>
 </div>
 
