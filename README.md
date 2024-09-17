@@ -27,6 +27,9 @@ I have some qualified certificate  [certificate from Dicoding and FreeCodeCamp](
   </picture>
 </div>
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kyra-Code79&theme=tokyonight)](https://git.io/streak-stats)
+
 <div>
   <h3>Visitors Count:</h3>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kyra-Code79" alt="Visitors" />
