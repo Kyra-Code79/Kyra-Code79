@@ -10,6 +10,8 @@ I have some qualified certificate  [certificate from dicoding](<br>
 **3. https://www.freecodecamp.org/certification/HabibiSiregar/responsive-web-design**
 ).<br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kyra-Code79&theme=nightowl&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kyra-Code79&theme=nightowl&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+</div>
 
 Check my profile for more, [Linkedin](https://www.linkedin.com/in/habibisiregar79/).
