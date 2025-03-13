@@ -4,8 +4,8 @@
 
 <div>
 <h1>My name is <b>M Habibi Siregar</b>.</h1>
-<h3>I'm a Junior <b>FullStack Developer</b>.</h3><br>
-<h5>Personal Web: https://habibisiregar79.my.id/</h5><br>
+<h3>I'm a Junior <b>FullStack Developer</b>.</h3>
+<h3>Personal Web: https://habibisiregar79.my.id/</h3><br>
 </div>
 
 <div>
