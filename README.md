@@ -34,7 +34,7 @@ I have some qualified certificates from **Dicoding** and **FreeCodeCamp**:
 
 ### 🔥 GitHub Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyra-Code79&theme=tokyonight" alt="GitHub Streak" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyra-Code79&theme=tokyonight&count_private=true" alt="GitHub Streak" width="450"/>
 </div>
 
 ---
